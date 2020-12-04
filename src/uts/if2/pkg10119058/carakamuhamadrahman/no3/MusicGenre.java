@@ -7,11 +7,11 @@ package uts.if2.pkg10119058.carakamuhamadrahman.no3;
 
 /**
  *
- * @author
  * NAMA     : Caraka Muhamad Rahman
  * KELAS    : PBOIF2
  * NIM      : 10119058
- * Deskripsi Program :
+ * Deskripsi Program : Program ini berisi program untuk menampilkan Nama-nama
+ *                     musisi beserta genre nya.
  */
 public abstract class MusicGenre {
     private String artistName;
